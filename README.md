@@ -1,0 +1,2 @@
+# LibGDX_AndroidDemo
+LibGDX游戏引擎android示例项目
